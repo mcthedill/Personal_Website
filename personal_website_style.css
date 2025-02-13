@@ -11,6 +11,18 @@ p {
 
 body {
     background-color: black;
+    padding-bottom: 500px;
+}
+
+.blog-post {
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid white;
+    width: 50%;
+}
+
+.blog-post h2{
+    text-align: center;
 }
 
 #mainmenu {
